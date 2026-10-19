@@ -1,1 +1,23 @@
- a i o f i l e s = = 2 5 . 1 . 0   a i o g r a m = = 3 . 3 1 . 0   a i o h a p p y e y e b a l l s = = 2 . 7 . 1   a i o h t t p = = 3 . 1 4 . 5   a i o s i g n a l = = 1 . 4 . 0   a n n o t a t e d - t y p e s = = 0 . 8 . 0   a n y i o = = 4 . 1 5 . 1   a t t r s = = 2 6 . 1 . 0   c e r t i f i = = 2 0 2 6 . 1 0 . 1 8   f r o z e n l i s t = = 1 . 8 . 0   h 1 1 = = 0 . 1 6 . 0   h t t p c o r e = = 1 . 0 . 9   h t t p x = = 0 . 2 8 . 1   i d n a = = 3 . 2 0   m a g i c - f i l t e r = = 1 . 0 . 1 2   m u l t i d i c t = = 7 . 1 . 0   p r o p c a c h e = = 0 . 5 . 4   p y d a n t i c = = 2 . 1 3 . 5   p y d a n t i c _ c o r e = = 2 . 4 6 . 5   p y t h o n - d o t e n v = = 1 . 2 . 4   t y p i n g - i n s p e c t i o n = = 0 . 4 . 4   t y p i n g _ e x t e n s i o n s = = 4 . 1 6 . 0   y a r l = = 1 . 2 5 . 1   
+aiofiles==25.1.0
+aiogram==3.31.0
+aiohappyeyeballs==2.7.1
+aiohttp==3.14.5
+aiosignal==1.4.0
+annotated-types==0.8.0
+anyio==4.15.1
+attrs==26.1.0
+certifi==2026.10.18
+frozenlist==1.8.0
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+idna==3.20
+magic-filter==1.0.12
+multidict==7.1.0
+propcache==0.5.4
+pydantic==2.13.5
+pydantic_core==2.46.5
+python-dotenv==1.2.4
+typing-inspection==0.4.4
+typing_extensions==4.16.0
+yarl==1.25.1
